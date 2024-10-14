@@ -1,5 +1,7 @@
 **GUI-Configurator-ESP32** is a graphical application designed for configuring ESP32 devices (or other devices that support serial communication) through a user-friendly interface. The app allows users to set various parameters, send custom JSON data fields over a serial connection, and includes a built-in serial monitor for debugging purposes.
 
+![ESP32 Configurator](esp32_configurator.png)
+
 ## Key Features
 
 - **ESP32/Device Configuration**: Connect to an ESP32 or other devices via serial communication and configure parameters such as Wi-Fi settings, MQTT broker information, etc.
